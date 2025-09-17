@@ -1,0 +1,7 @@
+ifconfig → Muestra la configuración de red (IP, máscara, broadcast).
+
+ip addr → Muestra las direcciones IP de las interfaces de red.
+
+nmtui → Abre un menú interactivo en la terminal para configurar IP estática o DHCP
+
+nmcli → Configura la red desde la terminal (asignar IP, máscara, gateway, DNS, habilitar o deshabilitar conexiones).
