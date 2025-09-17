@@ -1,0 +1,21 @@
+whoami → Muestra el usuario actual.
+
+id → Muestra UID, GID y grupos de un usuario.
+
+adduser nombre → Crea un usuario con su carpeta /home.
+
+passwd usuario → Cambia la contraseña de un usuario.
+
+su usuario → Cambia de sesión al usuario indicado.
+
+sudo deluser → Elimina un usuario.
+
+addgroup → Crea un grupo nuevo.
+
+usermod -aG grupo usuario → Añade un usuario a un grupo.
+
+groups usuario → Ver los grupos en los que pertenece el usuario
+
+id usuario → Ver los grupos con el id en los que pertenece el usuario
+
+usermod -r usuario -G grupo → elimina al usuario del grupo
