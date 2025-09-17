@@ -8,7 +8,40 @@ ls -a → Incluye archivos ocultos.
 
 cd nombre_directorio → Cambia de directorio.
 
-cd .. → Sube un nivel.
+touch → crea un archivo vacío o actualiza la fecha de acceso/modificación si ya existe.
 
-cd / → Va a la raíz del sistema.
+echo → Imprime texto en pantalla o lo redirige a un archivo.
 
+cat → Muestra el contenido de uno o varios archivos concatenados.
+
+tac → Muestra el contenido de un archivo en orden inverso (línea por línea).
+
+mkdir →  crea directorios
+
+cp → Copia archivos o directorios
+
+mv → Mueve o renombra archivos o directorios.
+
+rm → Elimina archivos y carpetas recursivamente y forzadamente.
+
+man → Muestra el manual (help) de un comando.
+
+apropos → Busca páginas de manual cuyo nombre o descripción contenga un término
+
+which → Muestra la ruta del ejecutable que se usaría para un comando
+
+history → Muestra el historial de comandos del shell actual.
+
+locate → Busca archivos por nombre rápidamente usando una base de datos actualizada
+
+uname → Muestra información del kernel; con -a da todo.
+
+lsb_release -d → Muestra la descripción de la distribución
+
+alias → Crea atajos para comandos
+
+greep → Filtra líneas que coinciden con una expresión regular.
+
+sudo → ejecuta un comando con privilegios de superusuario 
+
+awk → Lenguaje para procesar texto por columnas; muy potente para extracción y transformación.
