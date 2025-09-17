@@ -1,0 +1,19 @@
+/bin → comandos esenciales
+
+/etc → configuración del sistema
+
+/dev → dispositivos
+
+/var → datos variables (logs, caches)
+
+/tmp → temporales
+
+/lib → librerías del sistema
+
+/home → usuarios
+
+/root → superusuario root
+
+/boot → kernel + cargador de arranque
+
+/opt → programas opcionales
