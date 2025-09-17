@@ -1,0 +1,14 @@
+pwd → Muestra la ruta actual (dónde estás).
+
+ls → Lista los archivos del directorio.
+
+ls -l → Muestra detalles (permisos, dueño, tamaño, fecha).
+
+ls -a → Incluye archivos ocultos.
+
+cd nombre_directorio → Cambia de directorio.
+
+cd .. → Sube un nivel.
+
+cd / → Va a la raíz del sistema.
+
