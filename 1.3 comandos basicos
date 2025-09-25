@@ -10,15 +10,15 @@ cd nombre_directorio → Cambia de directorio.
 
 touch → crea un archivo vacío o actualiza la fecha de acceso/modificación si ya existe.
 
-echo → Imprime texto en pantalla o lo redirige a un archivo.
+echo echo "Hola mundo" > archivo → Imprime texto en pantalla o lo redirige a un archivo.
 
-cat → Muestra el contenido de uno o varios archivos concatenados.
+cat nombre del archivo → Muestra el contenido de uno o varios archivos concatenados.
 
-tac → Muestra el contenido de un archivo en orden inverso (línea por línea).
+tac nombre del archivo → Muestra el contenido de un archivo en orden inverso (línea por línea).
 
-mkdir →  crea directorios
+mkdir nombre del archivo nuevo→  crea directorios
 
-cp → Copia archivos o directorios
+cp nombre del archivo nombre de la copia→ Copia archivos o directorios
 
 mv → Mueve o renombra archivos o directorios.
 
